@@ -1,0 +1,3 @@
+[submodule "src/vial-qmk"]
+	path = src/vial-qmk
+	url = https://github.com/vial-kb/vial-qmk.git
